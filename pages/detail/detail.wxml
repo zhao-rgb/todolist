@@ -1,0 +1,12 @@
+<!--pages/detail/detail.wxml-->
+<view>
+<view>
+<text>id:{{item.id}}</text>
+</view>
+<view>
+<text>歌曲名字{{item.name}}</text>
+</view>
+<view>
+<text>歌手{{item.author}}</text>
+</view>
+</view>
